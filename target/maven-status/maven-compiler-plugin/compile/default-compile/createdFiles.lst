@@ -1,0 +1,5 @@
+org\munro\kafkachat\MessageListener.class
+org\munro\kafkachat\Main.class
+org\munro\kafkachat\MessageSender.class
+org\munro\kafkachat\Message.class
+org\munro\kafkachat\Window.class
