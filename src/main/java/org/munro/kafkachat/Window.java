@@ -62,7 +62,7 @@ public class Window extends JFrame {
     }
 
     private void sendButtonPressedHandler() {
-        String message = this.sendMessageArea.getText();
+        String message = this.sendMessageArea.getText().trim();
         this.sendMessageArea.setText("");
 
         if (!message.isBlank()) {
